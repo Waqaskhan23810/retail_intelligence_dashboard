@@ -1,7 +1,7 @@
 # Retail Intelligence Dashboard
 
 This project provides a sales and profitability dashboard for retail performance analysis. It reads the cleaned retail dataset, applies filters, and presents KPIs and charts in a simple Streamlit interface.
-
+( https://retailintelligencedashboard-mbnlzd75pvfsnkju4lfxxd.streamlit.app/ )
 ## Features
 
 - Sales and profit KPI overview
